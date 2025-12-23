@@ -1,2 +1,3 @@
-# Genius
-Learning Java and Git
+# FutureTech
+Learning JavaScript, Vita, Node.js, SASS, git, GitHub.
+Creating FutureTech Website.
